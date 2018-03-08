@@ -1,11 +1,17 @@
 Dear Makers,
 
+spring is coming and the Maker scene awakens! That observation is borrowed from a Make: article [1], but it seems to be true - here's another load of news for you:
+
+The biohackers from Biotop e. V. will hold their first workshops of the year on March 18 and 25, 13:30-17:30. This time the focus lies on mushroom-based materials: by connecting and strengthening various substrates with fungal "roots", you can get an interesting array of properties. So if you wish to have a glimpse in the future, or you want to add an extra point to your maker skills, or want to grow a biodegradable flower pot/lampshade/coaster/... Join in! Please visit the event page [2] for more information and fill out the online form if you want to participate.
+
+Between the two installments of this double seminar, you are kindly invited to the next Fusion 360 seminar at the CoMakingSpace on March 24, 14:00-17:00.
+{details}
+
+Also worth noting, the CoderDojo HD was founded in the beginning of the year and they already have so many interested children that they are desperately looking for additional mentors [3] who are passionate about coding and teaching. Please get in touch with them if that could be you! You don't need to be a perfect programmer, being interested and willing to pick up a few new things should be enough to help the kids :-) They are currently using Scratch and will add Python sessions soon.
+
 ...
 
-{Biotop's mushroom workshop}
 
-{CoderDojo HD - call for mentors}
-
-{CoMakingSpace's Fusion 360 seminar}
-
-...
+[1] https://www.heise.de/make/meldung/Werkstattberichte-Neues-aus-den-Fablabs-und-der-Makerszene-3960606.html
+[2] http://www.biotop-heidelberg.de/event/grow-it-yourself-mushroom-material-workshop-part-1/
+[3] https://coderdojohd.github.io/Mentoren.htm
