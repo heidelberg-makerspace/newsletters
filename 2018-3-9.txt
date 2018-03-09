@@ -2,16 +2,22 @@ Dear Makers,
 
 spring is coming and the Maker scene awakens! That observation is borrowed from a Make: article [1], but it seems to be true - here's another load of news for you:
 
-The biohackers from Biotop e. V. will hold their first workshops of the year on March 18 and 25, 13:30-17:30. This time the focus lies on mushroom-based materials: by connecting and strengthening various substrates with fungal "roots", you can get an interesting array of properties. So if you wish to have a glimpse in the future, or you want to add an extra point to your maker skills, or want to grow a biodegradable flower pot/lampshade/coaster/... Join in! Please visit the event page [2] for more information and fill out the online form if you want to participate.
+The biohackers from Biotop Community Lab e. V. will hold their first workshops of the year on March 18 and 25, 13:30-17:30. This time the focus lies on mushroom-based materials: by connecting and strengthening various substrates with fungal "roots", you can get an interesting array of properties. So if you wish to have a glimpse in the future, or you want to add an extra point to your maker skills, or want to grow a biodegradable flower pot/lampshade/coaster/... Join in! Please visit the event page [2] for more information and fill out the online form if you want to participate.
 
-Between the two installments of this double seminar, you are kindly invited to the next Fusion 360 seminar at the CoMakingSpace on March 24, 14:00-17:00.
-{details}
+Between the two installments of this double seminar (the mushrooms need some time to grow), you are kindly invited to the next Fusion 360 seminar [3] at the CoMakingSpace on March 24, 14:00-17:00. The seminar is aimed at CAD beginners, so no previous knowledge is required but it will also be interesting for people who have some experience in other CAD programs and want to start using Fusion 360. You will mainly look at the design process for parts which can be manufactured on a 3D printer or a CNC Router.
+Please bring your laptop with Fusion 360 already installed and a normal mouse with a wheel. If you have trouble with the installation, just come in a bit earlier and you can get help you with the setup. 
 
-Also worth noting, the CoderDojo HD was founded in the beginning of the year and they already have so many interested children that they are desperately looking for additional mentors [3] who are passionate about coding and teaching. Please get in touch with them if that could be you! You don't need to be a perfect programmer, being interested and willing to pick up a few new things should be enough to help the kids :-) They are currently using Scratch and will add Python sessions soon.
+{vielleicht doch nicht, Organisatoren haben gerade einige Mentoren gefunden:}
+Also worth noting, the CoderDojo HD was founded in the beginning of the year and they already have so many interested children that they are desperately looking for additional mentors [4] who are passionate about coding and teaching. Please get in touch with them if that could be you! You don't need to be a perfect programmer, being interested and willing to pick up a few new things should be enough to help the kids :-) They are currently using Scratch and will add Python sessions soon.
+
+{MakerCon-Ankündigung}
+
+{CoMakingSpace-Gewinnspiel}
 
 ...
 
 
 [1] https://www.heise.de/make/meldung/Werkstattberichte-Neues-aus-den-Fablabs-und-der-Makerszene-3960606.html
 [2] http://www.biotop-heidelberg.de/event/grow-it-yourself-mushroom-material-workshop-part-1/
-[3] https://coderdojohd.github.io/Mentoren.htm
+[3] https://wiki.comaking.space/Fusion_360_Seminar
+[4] https://coderdojohd.github.io/Mentoren.htm
